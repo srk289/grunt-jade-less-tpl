@@ -38,5 +38,6 @@ build/Release
 node_modules
 
 assets/css/*.css
+assets/css/vendor
 assets/fonts/
 assets/js/vendor
