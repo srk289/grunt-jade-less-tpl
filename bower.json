@@ -1,10 +1,10 @@
 {
-  "name": "Ambercite",
+  "name": "7AMPM",
   "version": "0.0.1",
   "authors": [
-    "Srikanth Kondaparthy <srk289@gmail.com>"
+    "Pavan Kumar Kondaparthy<k.pavankumaar@gmail.com >"
   ],
-  "description": "Ambercite",
+  "description": "7AMPM",
   "main": "index.html",
   "ignore": [
     "**/.*",
@@ -12,8 +12,8 @@
     "bower_components"
   ],
   "dependencies": {
-    "jquery":"^2.1.*",
-    "normalize.css": "*",
-    "jquery-ui": "*"
+    "jquery": "^2.1.*",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
   }
 }
