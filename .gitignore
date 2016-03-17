@@ -41,3 +41,4 @@ assets/css/*.css
 assets/css/vendor
 assets/fonts/
 assets/js/vendor
+*.html
